@@ -1,3 +1,3 @@
-# @frida/readable-stream
+# @plawnekjx/readable-stream
 
-Frida-optimized ESM fork of https://github.com/nodejs/readable-stream.
+Plawnekjx-optimized ESM fork of https://github.com/nodejs/readable-stream.
